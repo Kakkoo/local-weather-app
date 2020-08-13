@@ -17,7 +17,7 @@ import {HttpClientModule} from '@angular/common/http';
     AppRoutingModule,
     HttpClientModule
   ],
-  providers: [WeathetService],
+  providers: [WeatherService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
